@@ -1,3 +1,3 @@
-# axe-guy
+# AXE GUY
 
-Axe Guy by Jeff Guo
+Dungeon Crawler game
