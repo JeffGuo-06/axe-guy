@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Tile
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Wall\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=tileName\ x\ y
+comment1.target=Tile(java.lang.String,\ int,\ int)
+comment1.text=\r\n\ The\ Tile\ \r\n\ @param\ tileName\ The\ name\ of\ the\ Tile,\ which\ holds\ information\ such\ as\ its\ hitbox\ and\ image\r\n\ @param\ x\ the\ x\ position\ before\ being\ snapped\ to\ the\ grid\r\n\ @param\ y\ the\ y\ position\ before\ being\ snapped\ to\ the\ grid\ \r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=java.lang.String\ getTileDirection()
+comment3.text=\r\nThis\ returns\ the\ direction\ of\ the\ Tile\r\nfor\ example\ if\ the\ tileName\ is\ wallD\r\nit\ returns\ "D"\r\nif\ the\ tileName\ is\ doorLR\r\nit\ returns\ "LR"\r\n
+comment4.params=
+comment4.target=java.lang.String\ getTileType()
+comment4.text=\r\nThis\ returns\ the\ type\ of\ the\ Tile\r\nfor\ example\ if\ the\ tileName\ is\ wallD\r\nit\ returns\ "wall"\r\nif\ the\ tileName\ is\ doorLR\r\nit\ returns\ "door"\r\n
+comment5.params=
+comment5.target=void\ setLayers()
+numComments=6
